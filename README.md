@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,react,nextjs,vue,django,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,d3,mongodb,mysql,postgres,git,docker" />
+  <img src="https://skillicons.dev/icons?i=postman,figma,linux" />
+</p>
+
+<p align="center">
+  <strong>Additional Tools:</strong> Neo4j, Power BI
 </p>
 
 <hr>
