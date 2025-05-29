@@ -14,18 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 How to reach me:
+ 
+<div align="center">
+  <a href="ilwadabdi234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ilwad-abdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,react,nextjs,vue,django,flask" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,d3,mongodb,mysql,postgres,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,django,flask,ts,c,cpp,react" />
   <img src="https://skillicons.dev/icons?i=postman,figma,linux" />
 </p>
 
 <p align="center">
-  <strong>Additional Tools:</strong> Neo4j, Power BI
+  <strong>Additional Tools:</strong> Neo4j, Power BI, PythonAnywhere
 </p>
 
 <hr>
+
