@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,django,flask,ts,c,cpp,react,kotlin" />
    <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,git,docker" />
+   <img src="https://skillicons.dev/icons?i=python,js,django,flask,ts,c,cpp,react,kotlin" />
   <img src="https://skillicons.dev/icons?i=postman,figma,linux" />
 </p>
 
