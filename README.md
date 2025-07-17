@@ -33,8 +33,6 @@
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,linux" />
 </p>
