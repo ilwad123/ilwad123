@@ -9,7 +9,7 @@
 ## 💼 What I’m Currently Doing
 
 - 📊 Currently getting IBM Data Analyst Professional Certificate.
-- 📚 Currently learning **Tableau** and **Google BigQuery** to expand my analytical toolkit.
+- 📚 Currently learning **Tableau** and **Azure** to expand my analytical toolkit.
 - 🤖 Exploring the world of **AI**, with a particular interest in its practical applications in data science.
 - 🤝 Open to **collaborations** on data analysis, AI, and technology projects.
 - 🧠 Skilled at **making complex data simple**, especially for non-technical audiences.
