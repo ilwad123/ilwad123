@@ -8,7 +8,7 @@
 
 ## 💼 What I’m Currently Doing
 
-- 📊 Building a reporting system for **energy demand and carbon emissions** using BigQuery and Looker Studio  
+- 📊 Currently getting IBM Data Analyst Professional Certificate.
 - 📚 Currently learning **Tableau** and **Google BigQuery** to expand my analytical toolkit.
 - 🤖 Exploring the world of **AI**, with a particular interest in its practical applications in data science.
 - 🤝 Open to **collaborations** on data analysis, AI, and technology projects.
@@ -21,12 +21,12 @@
 | Project | Summary | Tools |
 |--------|---------|-------|
 | **Stop and Search Dashboard** <br> Avon & Somerset Police | Analysed stop and search data to explore fairness and disproportionality. Created a Power BI dashboard and presented insights to stakeholders. | Power BI, Python, SQL |
+| **UK Greenhouse Gas Emissions Dashboard** | Designed an interactive reporting system in Looker Studio using cleaned BigQuery datasets (2015–2022) to analyse sector trends, highlight fossil fuel reliance, and uncover reporting gaps. | BigQuery, Looker Studio, Google Sheets, Python |
 | **Bakery Delivery Dashboard** | Built a real-time analytics with predictive analytics dashboard using ML. Delivered KPI visualisations and PDF reporting. | Django, Python, Neo4j, SQLite, Chart.js,HTML/CSS/JS, CNN+LSTM |
 | **HR Analytics Dashboard** | Developed an HR dashboard to analyse attrition, satisfaction, and compensation using cleaned Kaggle data. | Power BI, Python |
 | **Security Data Investigation** | Visualised anomalous activity to narrow down suspects and present findings in a structured report. | Python, Pandas, Seaborn, Matplotlib |
 | **University Hub Platform** | Final year group project: built a student platform with event booking and community features, using Agile and Docker. | Django, MySQL, Docker, GitHub, Jira, HTML/CSS/JS|
 | **Airline Booking System** | Developed a full-stack web booking system with multi-role access and secure data handling. | Flask, MySQL, HTML/CSS/JS, Docker |
-| **Energy & Emissions Reporting System** | Developing a dashboard and reporting system to track energy demand and carbon emissions, simulating a regulatory analyst role. | BigQuery, Looker Studio, Google Sheets, Python |
 
 
 ---
