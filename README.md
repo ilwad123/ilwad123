@@ -21,7 +21,7 @@
 | Project | Summary | Tools |
 |--------|---------|-------|
 | **Stop and Search Dashboard** <br> Avon & Somerset Police | Analysed stop and search data to explore fairness and disproportionality. Created a Power BI dashboard and presented insights to stakeholders. | Power BI, Python, SQL |
-| **UK Greenhouse Gas Emissions Dashboard** | Designed an interactive reporting system in Looker Studio using cleaned BigQuery datasets (2015–2022) to analyse sector trends, highlight fossil fuel reliance, and uncover reporting gaps. | BigQuery, Looker Studio, Google Sheets, Python |
+| **UK Greenhouse Gas Emissions Dashboard** | Designed an interactive reporting system in Looker Studio using cleaned BigQuery datasets (2015–2022) to analyse sector trends, highlight fossil fuel reliance, and uncover reporting gaps. | BigQuery, Looker Studio,SQL |
 | **Bakery Delivery Dashboard** | Built a real-time analytics with predictive analytics dashboard using ML. Delivered KPI visualisations and PDF reporting. | Django, Python, Neo4j, SQLite, Chart.js,HTML/CSS/JS, CNN+LSTM |
 | **HR Analytics Dashboard** | Developed an HR dashboard to analyse attrition, satisfaction, and compensation using cleaned Kaggle data. | Power BI, Python |
 | **Security Data Investigation** | Visualised anomalous activity to narrow down suspects and present findings in a structured report. | Python, Pandas, Seaborn, Matplotlib |
